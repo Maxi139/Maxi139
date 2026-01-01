@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an iOS Finance App, which will hopefully be published soon.<br>🌱 I’m currently learning Swift and SwiftUI<br>⚡ Fun fact I'm german
+🔭 I’m currently working on ResellScope, which is a resell tracking app. (resellscope.de)<br>🌱 I’m currently learning Supabase and Stripe<br>⚡ Fun fact I'm german
 
 
 ## 🌐 Socials:
